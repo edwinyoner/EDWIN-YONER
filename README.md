@@ -3,6 +3,12 @@
 - 🌱 I’m currently learning Programación
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
+<p align = "center">
+  Made with :heart: &nbsp;using GitHub Markdown
+  <br/>
+   <br/>
+  <img src = "https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width = "50%">
+</p>
 
 <h1 align = "center">Hola, soy EDWIN YONER</h1>
 <h3 align = "center">Un apasionado por la tecnología</h3>
