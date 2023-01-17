@@ -6,7 +6,7 @@
 <p align = "center">
   Made with :heart: &nbsp;using GitHub Markdown
   <br/>
-   <br/>
+  <br/>
   <img src = "https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width = "25%">
 </p>
 
@@ -17,8 +17,6 @@
 EDWIN-YONER/EDWIN-YONER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<h3 align="center">Un apasionado desarrollador frontend de la India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwin-yoner&label=Profile% 20views&color=0e75b6&style=flat" alt="edwin-yoner" /> </p>
 
