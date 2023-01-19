@@ -4,14 +4,14 @@
   <img src = "https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width = "25%">
 </p>
 
-<h1 align = "center">Hola, soy EDWIN YONER</h1>
-<h3 align = "center">Un apasionado por la tecnología</h3>
 <h1 align="center">Hi 👋, I'm EDWIN YONER</h1>
 <h3 align="center">STUDENT OF SYSTEMS ENGINEERING AND COMPUTER SCIENCE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwin-yoner&label=Profile%20views&color=0e75b6&style=flat" alt="edwin-yoner" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwin-yoner" alt="edwin-yoner" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwin-yoner" alt="edwin-yoner" /></a>
+</p>
 
 - 📫 How to reach me **edwinyoner@edwinyoner.com**
 
@@ -64,7 +64,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwin-yoner&show_icons=true&locale=en&layout=compact" alt="edwin-yoner" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwin-yoner&show_icons=true&locale=en&layout=compact" alt="edwin-yoner" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwin-yoner&show_icons=true&locale=en" alt="edwin-yoner" /></p>
