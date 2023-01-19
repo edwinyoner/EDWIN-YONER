@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm EDWIN YONER</h1>
 <h3 align="center">STUDENT OF SYSTEMS ENGINEERING AND COMPUTER SCIENCE</h3>
-How to reach me **edwinyoner@edwinyoner.com**
+<h4 align="center">-How to reach me **edwinyoner@edwinyoner.com**</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edwin-yoner&label=Profile%20views&color=0e75b6&style=flat" alt="edwin-yoner" /> </p>
 
