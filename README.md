@@ -63,10 +63,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwin-yoner&show_icons=true&locale=en&layout=compact" alt="edwin-yoner" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwin-yoner&show_icons=true&locale=en" alt="edwin-yoner" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwin-yoner&show_icons=true&locale=en" alt="edwin-yoner" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwin-yoner&" alt="edwin-yoner" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwin-yoner&" alt="edwin-yoner" /></p>
