@@ -6,14 +6,13 @@
 
 <h1 align="center">Hi 👋, I'm EDWIN YONER</h1>
 <h3 align="center">STUDENT OF SYSTEMS ENGINEERING AND COMPUTER SCIENCE</h3>
+How to reach me **edwinyoner@edwinyoner.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edwin-yoner&label=Profile%20views&color=0e75b6&style=flat" alt="edwin-yoner" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=edwin-yoner&label=Profile%20views&color=0e75b6&style=flat" alt="edwin-yoner" /> </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwin-yoner" alt="edwin-yoner" /></a>
 </p>
-
-- 📫 How to reach me **edwinyoner@edwinyoner.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
